@@ -1,5 +1,7 @@
 main()
 {
-	putInMemory(0xb800,0,'L');
+
+/* your code goes here */
+
 	while(1);
 }
